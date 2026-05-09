@@ -1,9 +1,6 @@
 {
     "easy": [
-        {
-            "bgImageName": "MIKECRACK FANS",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/mickrackcoloring/refs/heads/main/b1.png"
-        },
+        
         {
             "bgImageName": "MIKECRACK FANS",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/mickrackcoloring/refs/heads/main/b2.png"
@@ -50,10 +47,7 @@
         }
     ],
     "hard": [
-        {
-            "bgImageName": "MIKECRACK FANS",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/mickrackcoloring/refs/heads/main/b1.png"
-        },
+      
         {
             "bgImageName": "MIKECRACK FANS",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/mickrackcoloring/refs/heads/main/b2.png"
